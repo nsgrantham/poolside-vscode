@@ -2,8 +2,6 @@
 	"name": "Poolside",
   "author": "Neal Grantham",
 	"type": "dark",
-  "semanticClass": "theme.poolside",
-  "semanticHighlighting": true,
 	"colors": {
     "terminal.background": "#353454",
     "terminal.foreground": "#F2EDED",
@@ -71,7 +69,7 @@
     "tab.activeForeground": "#F2EDED",
     "tab.border": "#353454",
     "tab.activeBorder": "#353454",
-    "tab.activeBorderTop": "#F7CBCA",// "#F7CBCA80",
+    "tab.activeBorderTop": "#F7CBCA",
     "tab.unfocusedActiveBorder": "#353454",
     "tab.inactiveBackground": "#2B2A44",
     "tab.inactiveForeground": "#7877ab",
@@ -79,8 +77,8 @@
     "tab.unfocusedInactiveForeground": "#7877ab",
 		"editor.background": "#353454",
 		"editor.foreground": "#F2EDED",
-		"editorLineNumber.foreground":"#7877ab60",// "#535183",
-    "editorLineNumber.activeForeground": "#7877abca",// "#8480a3",
+		"editorLineNumber.foreground":"#7877ab60",
+    "editorLineNumber.activeForeground": "#7877abca",
 		"editorCursor.foreground": "#9291bb",
     "editorCursor.background": "#44436c",
 		"editor.selectionBackground": "#494874",
@@ -144,6 +142,9 @@
     "editorHoverWidget.background": "#2B2A44",
     "editorHoverWidget.border": "#7877ab",
     "editorMarkerNavigation.background": "#2B2A44",
+    "scrollbarSlider.activeBackground": "#62619Db9",
+    "scrollbarSlider.background": "#47467080",
+    "scrollbarSlider.hoverBackground": "#474670b9",
     "peekView.border": "#1c1b2c",
     "peekViewEditor.background": "#1c1b2c",
     "peekViewEditor.matchHighlightBackground": "#FF92DF50",
@@ -228,7 +229,7 @@
         "source"
       ],
       "settings": {
-        "foreground": "#F7CBCA"
+        "foreground": "#F2EDED"
       }
     },
     {

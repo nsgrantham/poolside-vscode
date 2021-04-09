@@ -1,13 +1,21 @@
-# README
-## This is the README for your extension "poolside-vscode"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Poolside
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A Visual Studio Code theme where the sun never sets. Inspired by [poolside.fm](https://poolside.fm).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Screenshot of Poolside in VS Code](https://raw.githubusercontent.com/nsgrantham/poolside-vscode/main/images/poolside-screenshot.png)
 
-**Enjoy!**
+## Dive in
+
+1. Install [Visual Studio Code](https://code.visualstudio.com/)
+2. Launch Visual Studio Code
+3. Open **Extensions**  with <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> (Mac) or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> (Windows/Linux)
+4. Search for `Poolside` by `nsgrantham`
+5. Click **Install** to install it
+6. Open **Code > Preferences > Color Theme** with <kbd>Cmd</kbd>+<kbd>K</kbd> <kbd>Cmd</kbd>+<kbd>T</kbd> (Mac) or <kbd>Ctrl</kbd>+<kbd>K</kbd> <kbd>Ctrl</kbd>+<kbd>T</kbd> (Windows/Linux) 
+7. Select **Poolside**
+
+## Dry off
+
+1. Open **Extensions**  with <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> (Mac) or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> (Windows/Linux)
+2. Select **Poolside** under **Installed**
+3. Click **Uninstall** to uninstall it

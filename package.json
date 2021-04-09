@@ -1,20 +1,39 @@
 {
-  "name": "poolside-vscode",
+  "name": "poolside",
   "displayName": "Poolside",
-  "description": "A virtual vacation where the sun never sets.",
-  "version": "0.0.1",
+  "description": "A VS Code theme where the sun never sets.",
+  "version": "1.0.0",
+  "publisher": "nsgrantham",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nsgrantham/poolside-vscode"
+  },
   "engines": {
     "vscode": "^1.53.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Poolside"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#353454",
+    "theme": "dark"
+  },
+  "icon": "images/poolside-icon.png",
   "contributes": {
     "themes": [
       {
         "label": "Poolside",
         "uiTheme": "vs-dark",
-        "path": "./themes/Poolside-color-theme.json"
+        "path": "./themes/poolside.json"
       }
     ]
   }
