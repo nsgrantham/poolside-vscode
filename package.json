@@ -1,40 +1,45 @@
 {
-  "name": "poolside",
-  "displayName": "Poolside",
-  "description": "A VS Code theme where the sun never sets.",
-  "version": "1.0.0",
-  "publisher": "nsgrantham",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nsgrantham/poolside-vscode"
-  },
-  "engines": {
-    "vscode": "^1.53.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "Theme",
-    "Dark Theme",
-    "Poolside"
-  ],
-  "scripts": {
-    "publish": "vsce publish"
-  },
-  "galleryBanner": {
-    "color": "#353454",
-    "theme": "dark"
-  },
-  "icon": "images/poolside-icon.png",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Poolside",
-        "uiTheme": "vs-dark",
-        "path": "./themes/poolside.json"
-      }
-    ]
-  }
+	"name": "poolside",
+	"displayName": "Poolside",
+	"description": "A VS Code theme where the sun never sets.",
+	"version": "1.0.0",
+	"publisher": "nsgrantham",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nsgrantham/poolside-vscode"
+	},
+	"engines": {
+		"vscode": "^1.53.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Poolside"
+	],
+	"scripts": {
+		"publish": "vsce publish"
+	},
+	"galleryBanner": {
+		"color": "#353454",
+		"theme": "dark"
+	},
+	"icon": "images/poolside-icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Poolside",
+				"uiTheme": "vs-dark",
+				"path": "./themes/poolside.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "02d8f35f-7464-41b9-941c-375032bfe009",
+		"publisherDisplayName": "nsgrantham",
+		"publisherId": "d5200afa-b594-4b7b-bf95-1a0fc4ece0ea"
+	}
 }
