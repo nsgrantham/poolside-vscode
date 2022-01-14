@@ -17,7 +17,7 @@
     "terminal.ansiBrightRed": "#F8B3B1",
     "terminal.ansiBrightGreen": "#D7F4AB",
     "terminal.ansiBrightYellow": "#FAD6A7",
-    "terminal.ansiBrightBlue": "#B1AFFA", 
+    "terminal.ansiBrightBlue": "#B1AFFA",
     "terminal.ansiBrightMagenta": "#DF9DFA",
     "terminal.ansiBrightCyan": "#A3DFFA",
     "terminal.ansiBrightWhite": "#ffffff",
@@ -50,7 +50,7 @@
     "list.dropBackground": "#474670",
     "list.focusBackground": "#47467075",
     "list.highlightForeground": "#A3DFFA",
-    "list.hoverBackground": "#47467075", 
+    "list.hoverBackground": "#47467075",
     "list.inactiveSelectionBackground": "#47467075",
     "list.warningForeground": "#FAD6A7",
     "list.errorForeground": "#F8B3B1",
@@ -90,10 +90,10 @@
     "editor.lineHighlightBorder": "#3f3e64",
     "editorLink.activeForeground": "#8BE9FD",
     "editor.foldBackground": "#2B2A44",
-    "editor.selectionHighlightBackground": "#535285",    
+    "editor.selectionHighlightBackground": "#535285",
     "editor.wordHighlightBackground": "#A4FFFF40",
     "editor.wordHighlightStrongBackground": "#ffb86c80",
-    "editor.findMatchBackground": "#69FF9480", 
+    "editor.findMatchBackground": "#69FF9480",
     "editor.findMatchHighlightBackground": "#FFFFFF40",
     "editor.findRangeHighlightBackground": "#49487475",
     "editor.hoverHighlightBackground": "#A4FFFF40",
@@ -196,6 +196,7 @@
     "settings.textInputForeground": "#F2EDED",
     "settings.numberInputBackground": "#3F3E64",
     "settings.numberInputForeground": "#F2EDED",
+    "scrollbar.shadow": "#2B2A44",
     "breadcrumb.foreground": "#7877ab",
     "breadcrumb.focusForeground": "#FFFFFF",
     "breadcrumb.activeSelectionForeground": "#FFFFFF",
@@ -705,6 +706,7 @@
         "support.type.property-name"
       ],
       "settings": {
+        "foreground": "#A3DFFA",
         "fontStyle": ""
       }
     },
