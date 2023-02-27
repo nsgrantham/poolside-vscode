@@ -1,8 +1,8 @@
 {
 	"name": "poolside",
 	"displayName": "Poolside",
-	"description": "A VS Code theme where the sun never sets.",
-	"version": "1.0.0",
+	"description": "A Virtual Vacation in Visual Studio Code.",
+	"version": "1.1.0",
 	"publisher": "nsgrantham",
 	"license": "MIT",
 	"repository": {
@@ -24,10 +24,10 @@
 		"publish": "vsce publish"
 	},
 	"galleryBanner": {
-		"color": "#353454",
+		"color": "#2d2d48",
 		"theme": "dark"
 	},
-	"icon": "images/poolside-icon.png",
+	"icon": "./images/poolside-icon.png",
 	"contributes": {
 		"themes": [
 			{
