@@ -27,7 +27,7 @@
 		"color": "#2d2d48",
 		"theme": "dark"
 	},
-	"icon": "./images/poolside-icon.png",
+	"icon": "images/poolside-icon.png",
 	"contributes": {
 		"themes": [
 			{
