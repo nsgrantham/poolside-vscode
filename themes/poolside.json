@@ -225,7 +225,7 @@
         "gitDecoration.stageModifiedResourceForeground": "#8deef7",
         "gitDecoration.stageRenamedResourceForeground": "#8deef7",
         "gitDecoration.submoduleResourceForeground": "#ef92f7",
-        "gitDecoration.untrackedResourceForeground": "#f78db9",
+        "gitDecoration.untrackedResourceForeground": "#d1f79c",
         "icon.foreground": "#9291bb",
         "input.background": "#2d2d48",
         "input.border": "#62619d66",
@@ -615,6 +615,8 @@
             "name": "Function Parameters",
             "scope": [
                 "entity.other.attribute-name.html",
+                "entity.other.attribute-name.localname.xml",
+                "entity.other.attribute-name.tsx",
                 "support.type.property-name.css",
                 "variable"
             ],
@@ -661,9 +663,8 @@
                 "markup.inserted.diff",
                 "meta.function-call.generic",
                 "punctuation.definition.decorator",
-                "punctuation.definition.tag.begin.html",
-                "punctuation.definition.tag.end.html",
-                "support.function"
+                "support.function",
+                "variable.other.property.tsx"
             ],
             "settings": {
                 "foreground": "#8deef7"
@@ -689,6 +690,8 @@
             "scope": [
                 "entity.name.tag.css",
                 "entity.name.tag.html",
+                "entity.name.tag.tsx",
+                "entity.name.tag.localname.xml",
                 "keyword",
                 "keyword.operator.expression.typeof.js",
                 "keyword.operator.logical.python",
@@ -696,6 +699,9 @@
                 "keyword.operator.relation.in.julia",
                 "meta.import",
                 "meta.export",
+                "punctuation.definition.tag.begin",
+                "punctuation.definition.tag.end",
+                "punctuation.definition.tag.xml",
                 "storage"
             ],
             "settings": {
@@ -729,6 +735,7 @@
         {
             "name": "",
             "scope": [
+                "meta.jsx.children.tsx",
                 "variable.argument",
                 "variable.function",
                 "variable.other"
