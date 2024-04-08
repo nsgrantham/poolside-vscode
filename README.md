@@ -2,27 +2,27 @@
 
 > A Virtual Vacation in Visual Studio Code
 
-
 ![Screenshot of Poolside in VS Code](https://raw.githubusercontent.com/nsgrantham/poolside-vscode/main/images/poolside-screenshot.png)
 
 ## Palette
 
 | Color                                            | Name         | Used For               | Hex     |
 | ------------------------------------------------ | ------------ | ---------------------- | ------- |
-| ![#25253c](https://fakeimg.pl/35/25253c/?text=+) | Deep End     | Background (Secondary) | #25253c |
-| ![#2d2d48](https://fakeimg.pl/35/2d2d48/?text=+) | After Hours  | Background (Primary)   | #2d2d48 |
-| ![#353454](https://fakeimg.pl/35/353454/?text=+) | Second Wind  | Highlights             | #353454 |
-| ![#62619d](https://fakeimg.pl/35/62619d/?text=+) | Pool Pass    | Comments               | #62619d |
-| ![#9291bb](https://fakeimg.pl/35/9291bb/?text=+) | Sunshade     | Foreground (Secondary) | #9291bb |
-| ![#f2f2f7](https://fakeimg.pl/35/f2f2f7/?text=+) | Sunblock     | Foreground (Primary)   | #f2f2f7 |
-| ![#facbca](https://fakeimg.pl/35/facbca/?text=+) | Sunbeam      | Operators, Punctuation | #facbca |
-| ![#f78db9](https://fakeimg.pl/35/f78db9/?text=+) | Lifeguard    | Errors                 | #f78db9 |
-| ![#f7d19c](https://fakeimg.pl/35/f7d19c/?text=+) | Luxury Suite | Function Parameters    | #f7d19c |
-| ![#d1f79c](https://fakeimg.pl/35/d1f79c/?text=+) | Daiquiri     | Strings                | #d1f79c |
-| ![#9cf7b3](https://fakeimg.pl/35/9cf7b3/?text=+) | Lone Palm    | Classes                | #9cf7b3 |
-| ![#8deef7](https://fakeimg.pl/35/8deef7/?text=+) | Jacuzzi      | Functions              | #8deef7 |
-| ![#929af7](https://fakeimg.pl/35/929af7/?text=+) | Disco Ball   | Constants              | #929af7 |
-| ![#ef92f7](https://fakeimg.pl/35/ef92f7/?text=+) | Flamingo     | Keywords               | #ef92f7 |
+| ![#19162c](https://fakeimg.pl/35/19162c/?text=+) | Deep End     | Background (Secondary) | `#19162c` |
+| ![#1f1b36](https://fakeimg.pl/35/1f1b36/?text=+) | After Hours  | Background (Primary)   | `#1f1b36` |
+| ![#262244](https://fakeimg.pl/35/262244/?text=+) | Second Wind  | Overlays, Highlights   | `#262244` |
+| ![#5c4fb0](https://fakeimg.pl/35/5c4fb0/?text=+) | Pool Pass    | Comments               | `#5c4fb0` |
+| ![#d0d0f7](https://fakeimg.pl/35/d0d0f7/?text=+) | Sunshade     | Foreground (Secondary) | `#d0d0f7` |
+| ![#f0f0fc](https://fakeimg.pl/35/f0f0fc/?text=+) | Sunblock     | Foreground (Primary)   | `#f0f0fc` |
+| ![#ffd1c2](https://fakeimg.pl/35/ffd1c2/?text=+) | Sunray       | Accent                 | `#ffd1c2` |
+| ![#ffab8f](https://fakeimg.pl/35/ffab8f/?text=+) | Sunbeam      | Accent (Hover)         | `#ffab8f` |
+| ![#f797af](https://fakeimg.pl/35/f797af/?text=+) | Lifeguard    | Errors                 | `#f797af` |
+| ![#f7cd92](https://fakeimg.pl/35/f7cd92/?text=+) | Luxury Suite | Function Parameters    | `#f7cd92` |
+| ![#cbf78d](https://fakeimg.pl/35/cbf78d/?text=+) | Daiquiri     | Strings                | `#cbf78d` |
+| ![#8df7a8](https://fakeimg.pl/35/8df7a8/?text=+) | Lone Palm    | Classes, Types         | `#8df7a8` |
+| ![#92eff7](https://fakeimg.pl/35/92eff7/?text=+) | Jacuzzi      | Functions              | `#92eff7` |
+| ![#979ff7](https://fakeimg.pl/35/979ff7/?text=+) | Disco Ball   | Constants              | `#979ff7` |
+| ![#ef92f7](https://fakeimg.pl/35/ef92f7/?text=+) | Flamingo     | Keywords               | `#ef92f7` |
 
 ## Dive in
 
@@ -34,6 +34,6 @@
 
 ## Dry off
 
-1. Open **Extensions**  with <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> (Mac) or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> (Windows/Linux)
+1. Open **Extensions** with <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> (Mac) or <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> (Windows/Linux)
 2. Select **Poolside** under **Installed**
 3. Click **Disable** to try a different theme or click **Uninstall** to remove it entirely

@@ -1,8 +1,8 @@
 {
 	"name": "poolside",
 	"displayName": "Poolside",
-	"description": "A Virtual Vacation in Visual Studio Code.",
-	"version": "1.1.0",
+	"description": "A Virtual Vacation in Visual Studio Code",
+	"version": "1.2.0",
 	"publisher": "nsgrantham",
 	"license": "MIT",
 	"repository": {
@@ -24,7 +24,7 @@
 		"publish": "vsce publish"
 	},
 	"galleryBanner": {
-		"color": "#2d2d48",
+		"color": "#1f1b36",
 		"theme": "dark"
 	},
 	"icon": "images/poolside-icon.png",
